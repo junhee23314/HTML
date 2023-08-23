@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h2>표(Table)</h2>
+    <table border="1">
+        <tr>
+            <th style="width: 100px;">이름</th>
+            <td>김이름</td>
+        </tr>
+        <tr>
+            <th>주소</th>
+            <td>성남시 중원구 금광동</td>
+        </tr>
+        <tr>
+            <th>전화번호</th>
+            <td>010-1234-1004</td>
+        </tr>
+    </table>
+
+
+
+
+</body>
+
+</html>
